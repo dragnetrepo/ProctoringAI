@@ -89,3 +89,4 @@ models/yolov3.weights
 output
 dist
 build
+main.spec
