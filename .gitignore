@@ -84,3 +84,8 @@ proctoring
 venv
 __pycache__
 models/yolov3.weights
+
+#build files for mac os
+output
+dist
+build

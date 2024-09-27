@@ -163,8 +163,7 @@ def nothing(x):
 cv2.createTrackbar("threshold", "image", 75, 255, nothing)
 
 def track_eye(video_path=None):
-
-    video_path = ""
+    print('path to use ==>',video_path)
 
     cap = cv2.VideoCapture(video_path)
     ret, img = cap.read()
