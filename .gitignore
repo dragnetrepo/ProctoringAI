@@ -90,3 +90,4 @@ output
 dist
 build
 main.spec
+.DS_Store
